@@ -4,5 +4,5 @@
 </div>
 
 <div class="showpage-link">
-  <%= link_to 'Edit', "/books/#{@book.id}/edit" %> | <%= link_to 'Back', '/books' %>
+  <%= link_to 'Edit', edit_book_path(@book.id) %> | <%= link_to 'Back', '/books' %>
 </div>

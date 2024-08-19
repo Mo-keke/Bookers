@@ -8,7 +8,7 @@
 }
 
 .main-list {
-  font-size:13px;
+  font-size:14px;
   margin-bottom: 50px;
 }
 
@@ -23,18 +23,9 @@
 }
 
 .new-post p {
+  font-size: 14px;
   text-align: left;
-  margin: 0;
-  padding: 0;
   line-height: 1.0;
-}
-
-.new-post input, .new-post textarea {
-  margin-bottom: 15px;
-}
-
-.submit-button {
-  padding: 1px 5px;
 }
 
 .showpage {
@@ -53,4 +44,22 @@
 .showpage-link {
   font-size: 14px;
   margin-left: 30px;
+}
+
+.editpage {
+  margin: 25px 0 0 35px;
+}
+
+.editpage h3 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.editpage p {
+  font-size: 14px;
+}
+
+.editpage-link {
+  font-size: 14px;
+  margin: 10px 0 0 35px;
 }
