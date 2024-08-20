@@ -17,6 +17,10 @@
   margin-bottom: 10px;
 }
 
+.link {
+  text-align: center;
+}
+
 .new-post h3 {
   font-size: 20px;
   margin-bottom: 10px;
@@ -26,6 +30,21 @@
   font-size: 14px;
   text-align: left;
   line-height: 1.0;
+}
+
+.form {
+  margin-bottom: 10px;
+  width: 170px;
+}
+
+.form-area {
+  margin: 3px 0  10px;
+  width: 170px;
+  height: 50px;
+}
+
+.submit-button {
+  padding: 2px 5px;
 }
 
 .showpage {
